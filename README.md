@@ -2,7 +2,7 @@
 
 Minimal, notebook-first workflow for measuring the speed of moving objects from a recorded video or a live webcam stream — all inside Google Colab.
 
-[Open the TLDraw Planning Board ›](https://www.tldraw.com/f/T6oHe2VW4S5P4fRhE0Aqv?d=v-8987.-3939.16148.7670.-3ammlZr97oO5MAsfNS3P)
+Click▶️ [Open the TLDraw Planning Board](https://www.tldraw.com/f/T6oHe2VW4S5P4fRhE0Aqv?d=v-8987.-3939.16148.7670.-3ammlZr97oO5MAsfNS3P)
 
 ---
 
