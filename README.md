@@ -4,7 +4,7 @@ Minimal, notebook-first workflow for measuring the speed of moving objects from 
 
 Click▶️ [Open the TLDraw Planning Board](https://www.tldraw.com/f/T6oHe2VW4S5P4fRhE0Aqv?d=v-8987.-3939.16148.7670.-3ammlZr97oO5MAsfNS3P)
 
-Follow me on <a href="https://www.facebook.com/share/p/1ZMtMJhrCs/" aria-label="Facebook Post">📘</a> --> More insights on the project
+Follow me on ![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white): [Post](https://www.facebook.com/share/p/1ZMtMJhrCs)--> More insights on the project
 
 ---
 
