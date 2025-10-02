@@ -4,7 +4,7 @@ Minimal, notebook-first workflow for measuring the speed of moving objects from 
 
 Click▶️ [Open the TLDraw Planning Board](https://www.tldraw.com/f/T6oHe2VW4S5P4fRhE0Aqv?d=v-8987.-3939.16148.7670.-3ammlZr97oO5MAsfNS3P)
 
-Follow me on Facebook: [Post](https://www.facebook.com/share/p/1ZMtMJhrCs/) --> More insights on the project
+Follow me on <a href="https://www.facebook.com/share/p/1ZMtMJhrCs/" aria-label="Facebook Post">📘</a> --> More insights on the project
 
 ---
 
@@ -74,7 +74,6 @@ Meters-per-pixel = REAL_DISTANCE_M / PIXEL_BASELINE
 
 Swap the detection cell to upgrade accuracy without rewriting the rest.
 
-
 ---
 
 ## 📈 Tips for Better Accuracy
@@ -95,7 +94,6 @@ Swap the detection cell to upgrade accuracy without rewriting the rest.
 - [ ] Confidence bands on speed
 - [ ] Edge device adaptation
 
-
 ---
 
 ## 🙏 Acknowledgements
@@ -103,7 +101,6 @@ Swap the detection cell to upgrade accuracy without rewriting the rest.
 - Roboflow community for video + geometry tools
 - Colab for frictionless experimentation
 - YOLO / Ultralytics / Supervision / OpenCV
-
 
 ---
 
