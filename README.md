@@ -1,10 +1,16 @@
 # Real-Time Speed Tracking
 
-Minimal, notebook-first workflow for measuring the speed of moving objects from a recorded video or a live webcam stream — all inside Google Colab.
+> Minimal, notebook-first workflow for measuring the speed of moving objects from a recorded video or a live webcam stream — all inside Google Colab.
 
-Click▶️ [Open the TLDraw Planning Board](https://www.tldraw.com/f/T6oHe2VW4S5P4fRhE0Aqv?d=v-8987.-3939.16148.7670.-3ammlZr97oO5MAsfNS3P)
-
-Follow me on ![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white): [Post](https://www.facebook.com/share/p/1ZMtMJhrCs)--> More insights on the project
+<p align="center">
+  <a href="https://www.tldraw.com/f/T6oHe2VW4S5P4fRhE0Aqv?d=v-8987.-3939.16148.7670.-3ammlZr97oO5MAsfNS3P">
+    <img src="https://img.shields.io/badge/Planning%20Board-TLDraw-blueviolet?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open Planning Board">
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/share/p/1ZMtMJhrCs">
+    <img src="https://img.shields.io/badge/Follow-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Updates">
+  </a>
+</p>
 
 ---
 
