@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.tldraw.com/f/T6oHe2VW4S5P4fRhE0Aqv?d=v-8987.-3939.16148.7670.-3ammlZr97oO5MAsfNS3P">
-    <img src="https://img.shields.io/badge/Planning%20Board-TLDraw-blueviolet?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open Planning Board">
+    <img src="https://img.shields.io/badge/Planning%20Board-TLDraw-blueviolet?style=for-the-badge&logo=tldraw" alt="Open Planning Board">
   </a>
   &nbsp;
   <a href="https://www.facebook.com/share/p/1ZMtMJhrCs">
